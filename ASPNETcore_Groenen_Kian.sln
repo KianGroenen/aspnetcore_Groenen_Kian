@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETcore_Groenen_Kian", "ASPNETcore_Groenen_Kian\ASPNETcore_Groenen_Kian.csproj", "{662179F9-9FF2-48CB-8471-D74619AAAEA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETcore_Groenen_Kian.Tests", "ASPNETcore_Groenen_Kian.Tests\ASPNETcore_Groenen_Kian.Tests.csproj", "{EE56A579-E828-463B-912E-D3B221D4F077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{662179F9-9FF2-48CB-8471-D74619AAAEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662179F9-9FF2-48CB-8471-D74619AAAEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662179F9-9FF2-48CB-8471-D74619AAAEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662179F9-9FF2-48CB-8471-D74619AAAEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE56A579-E828-463B-912E-D3B221D4F077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE56A579-E828-463B-912E-D3B221D4F077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE56A579-E828-463B-912E-D3B221D4F077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE56A579-E828-463B-912E-D3B221D4F077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
